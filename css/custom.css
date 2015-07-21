@@ -1,0 +1,17 @@
+container {
+  margin-top: 300px;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline;
+}
+td:first-child {
+  color: blue;
+  font-weight: bold;
+}
+
+td {
+  padding-left: 50px
+}
